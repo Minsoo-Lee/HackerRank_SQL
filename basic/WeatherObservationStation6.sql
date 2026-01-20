@@ -1,1 +1,0 @@
-SELECT city from station where REGEXP_LIKE(CITY, '^[aeiouAEIOU]');
